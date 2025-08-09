@@ -14,11 +14,6 @@
 - 在页面加载早期应用样式，避免页面闪烁
 - 适配AC-baidu-重定向优化百度搜狗谷歌必应搜索 by AC
 
-## 安装
-
-1. 安装浏览器扩展 [Tampermonkey](https://www.tampermonkey.net/)
-2. 访问 [带鱼屏助手安装页面](https://update.greasyfork.org/scripts/395826/%E5%B8%A6%E9%B1%BC%E5%B1%8F%E5%8A%A9%E6%89%8B.user.js)
-3. 点击“安装”按钮
 
 ## 使用方法
 
